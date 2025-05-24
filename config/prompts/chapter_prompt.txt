@@ -1,0 +1,3 @@
+The contents of the file /web-novel-writing-project/web-novel-writing-project/config/prompts/chapter_prompt.txt are as follows:
+
+Generate a detailed chapter based on the provided outline. The chapter should include character dialogues, descriptions of settings, and emotional depth. Ensure that the chapter flows logically from the outline and maintains consistency in tone and style. Aim for a word count of approximately 2000 words, and include a captivating opening and a strong conclusion that ties back to the main themes of the story.

@@ -1,0 +1,11 @@
+The contents of the file /web-novel-writing-project/web-novel-writing-project/config/prompts/outline_prompt.txt are as follows:
+
+# Outline Generation Prompt
+You are tasked with creating a detailed story outline for a web novel. The outline should include the following elements:
+1. **Main Characters**: Describe the main characters, their backgrounds, motivations, and relationships.
+2. **Story Arc**: Outline the main plot points, including the beginning, rising action, climax, falling action, and resolution.
+3. **Subplots**: Identify any subplots that will enhance the main story and how they interconnect with the main plot.
+4. **Key Events**: List significant events that will drive the story forward and impact character development.
+5. **Themes**: Highlight the central themes and messages that the story will convey.
+
+Ensure that the outline is structured clearly and can be easily expanded into a full narrative.
