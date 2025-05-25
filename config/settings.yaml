@@ -1,11 +1,14 @@
 output_path: 
-  outlines: "output/outlines/"
-  chapters: "output/chapters/"
-  edits: "output/edits/"
+  outlines: "E:/projects/ai-web-novel/output/outlines/"
+  chapters: "E:/projects/ai-web-novel/output/chapters/"
+  edits: "E:/projects/ai-web-novel/output/edits/"
+log:
+  level: "INFO"
+  file: "E:/projects/ai-web-novel/output/ai_novel.log"
 model_parameters:
   model_name: "deepseek-r1:14b"
-  max_tokens: 2048
-  temperature: 0.7
-  top_p: 0.9
-  frequency_penalty: 0
-  presence_penalty: 0
+  max_tokens: 8000         # 支持较长内容生成，若硬件允许可更大
+  temperature: 0.85        # 提高创造力，适合文学创作
+  top_p: 0.95              # 增强多样性
+  frequency_penalty: 0.2   # 适度减少重复
+  presence_penalty: 0.3    # 鼓励引入新内容
